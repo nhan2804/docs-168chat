@@ -2,8 +2,8 @@
   - [Server Side Rendering](vi/embed-ssr.md)
   - [Client Side Rendering](vi/embed-csr.md)
 - Dashboard
-  - [Cấu hình dự án](configuration.md)
-  - [Mời thành viên](themes.md)
+  - [Dự án (Application)](vi/project/index.md)
+  - [Mời thành viên](vi/project/invite_user.md)
   - [Chat](plugins.md)
   - [Overview](write-a-plugin.md)
   - [History](markdown.md)
@@ -13,7 +13,7 @@
   - [Thông báo sự kiện](language-highlight.md)
 - Hướng dẫn
 
-  - [Tạo form(New)](vi/form.md)
+  - [Tạo form(New)](vi/project/form)
   - [Sử dụng các phím tắt](helpers.md)
   - [Tùy chỉnh trạng thái](vue.md)
   - [CDN](cdn.md)
