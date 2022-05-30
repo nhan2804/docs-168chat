@@ -10,12 +10,11 @@
   - [Chat](vi/project/chat.md)
   - [Overview](write-a-plugin.md)
   - [History](vi/project/history.md)
-  - [Form](language-highlight.md)
+  - [Form](vi/project/form.md)
   - [Chat nhanh](vi/project/quick_chat.md)
   - [Knowledge Base](language-highlight.md)
   - [Thông báo sự kiện](language-highlight.md)
 - Hướng dẫn
-
   - [Sử dụng các phím tắt](helpers.md)
   - [Tùy chỉnh trạng thái](vue.md)
   - [CDN](cdn.md)
