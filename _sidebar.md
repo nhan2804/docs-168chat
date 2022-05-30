@@ -7,13 +7,12 @@
   - [Chat](plugins.md)
   - [Overview](write-a-plugin.md)
   - [History](markdown.md)
-  - [Form](language-highlight.md)
+  - [Form](vi/project/form)
   - [Chat nhanh](language-highlight.md)
   - [Knowledge Base](language-highlight.md)
   - [Thông báo sự kiện](language-highlight.md)
 - Hướng dẫn
 
-  - [Tạo form(New)](vi/project/form)
   - [Sử dụng các phím tắt](helpers.md)
   - [Tùy chỉnh trạng thái](vue.md)
   - [CDN](cdn.md)
